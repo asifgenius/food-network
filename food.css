@@ -94,10 +94,11 @@ a {
 }
 
 footer {
+    margin-top: 35px;
     background-color: black;
     text-align: center;
-    padding-top: 50px;
-    height: 100px;
+    padding-top: 15px;
+    height: 60px;
     color: white;
 }
 
